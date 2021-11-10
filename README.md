@@ -1,6 +1,6 @@
 # Projeto House Rocket - Insights
 
-Acesse ao código deste projeto aqui.
+Acesse ao código deste projeto aqui: https://github.com/moraes-ederson/Proj_HouseRocket_Insights/blob/d8cef120023cb011eedabfafb52e22018a47cc7f/Proj_HouseRocket_Insights_v1.ipynb.
 
 ## 1. Problema de Negócio
 
