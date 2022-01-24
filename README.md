@@ -4,7 +4,7 @@
 
 O dataset utilizado foi o "House Sales in King County, USA" extraídos do [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
-Acesse o código deste projeto [aqui](https://github.com/moraes-ederson/Proj_HouseRocket_Insights/blob/944ca6238ed47270dd1158be6c6ca00e325b73b6/Proj_HouseRocket_Insights_v01.ipynb).
+Acesse o código deste projeto [aqui](https://github.com/moraes-ederson/Proj_HouseRocket_Insights/blob/9813455c48cb50571eb7bf14a5aec2beff13639d/Proj_HouseRocket_Insights_v01.ipynb).
 
 ## 1. Problema de Negócio
 
